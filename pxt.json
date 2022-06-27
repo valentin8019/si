@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "datalogger": "*"
+        "datalogger": "*",
+        "MakerBit-Motor": "github:1010technologies/pxt-makerbit-motor#v1.1.1"
     },
     "files": [
         "main.blocks",
